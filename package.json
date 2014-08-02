@@ -1,6 +1,6 @@
 {
   "name": "node-xstream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Duplex streams that can do operations",
   "main": "index.js",
   "scripts": {
