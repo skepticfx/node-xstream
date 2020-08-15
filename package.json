@@ -21,7 +21,6 @@
     "string",
     "replace"
   ],
-  "author": "Ahamed Nafeez <ahamed.nafeez@gmail.com> (http://blog.skepticfx.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/skepticfx/node-xstream/issues"
